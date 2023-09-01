@@ -3,10 +3,14 @@
 	<iostream>
 	"Ennemi.h"
 
+1588677717 
+
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\src\ennemi.h
 	"Entite.h"
 	"Item.h"
 	<sys/time.h>
+
+1588677717 h>
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\src\entite.h
 	<sys/time.h>
@@ -32,6 +36,8 @@
 	<SDL.h>
 	<stdio.h>
 	"Terrain.h"
+
+1588677717 "
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl.h
 	"SDL_main.h"
@@ -63,6 +69,8 @@
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
+
+1588677717 e.h"
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_main.h
 	"SDL_stdinc.h"
@@ -98,6 +106,8 @@
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_config.h
 	"SDL_platform.h"
+
+1588677717 orm.h"
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_platform.h
 	"AvailabilityMacros.h"
@@ -240,8 +250,12 @@
 	"SDL_stdinc.h"
 	"SDL_scancode.h"
 
+1588677717 ode.h"
+
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_scancode.h
 	"SDL_stdinc.h"
+
+1588677717 c.h"
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_mouse.h
 	"SDL_stdinc.h"
@@ -267,6 +281,8 @@
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
+
+1588677717 .h"
 
 1588677717 c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\include\sdl_gesture.h
 	"SDL_stdinc.h"
@@ -380,6 +396,390 @@
 	"Jeu_SDL.h"
 
 1588677717 source:c:\users\camil\desktop\lifap4\projet-lifap4\rogue_like\src\personnage.cpp
+	<iostream>
+	"Personnage.h"
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Ennemi.cpp
+	<iostream>
+	"Ennemi.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Ennemi.h
+	"Entite.h"
+	"Item.h"
+	<sys/time.h>
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Entite.h
+	<sys/time.h>
+	<string>
+	<cassert>
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Item.h
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Entite.cpp
+	<iostream>
+	"Entite.h"
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Item.cpp
+	"Item.h"
+	<cassert>
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Jeu_SDL.cpp
+	"Jeu_SDL.h"
+	"Terrain.h"
+	<iostream>
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Jeu_SDL.h
+	<SDL.h>
+	<stdio.h>
+	"Terrain.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_config.h
+	"SDL_platform.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/begin_code.h
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/close_code.h
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/include/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693574952 /home/k1000/test/projet-LIFAP4/src/Terrain.h
+	"Personnage.h"
+	"Ennemi.h"
+	"Loot.h"
+	<vector>
+	<iostream>
+	<curses.h>
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Personnage.h
+	<ctime>
+	"Entite.h"
+	"Item.h"
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Loot.h
+	"Item.h"
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Loot.cpp
+	"Loot.h"
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/main.cpp
+	<iostream>
+	"Jeu.h"
+	<cstdlib>
+
+1693574482 /home/k1000/test/projet-LIFAP4/src/Jeu.h
+	"Terrain.h"
+	<fstream>
+	<iostream>
+	<string>
+	"Jeu_SDL.h"
+
+1693574482 source:/home/k1000/test/projet-LIFAP4/src/Personnage.cpp
 	<iostream>
 	"Personnage.h"
 
